@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<style type="text/css">
+			.box{
+				width: 400px;
+				height: 350px;
+				border: 1px solid #CCCCCC;
+				border-top: 3px solid #3498DB;
+				margin: 100px auto;
+			}
+			.box h1{
+				text-align: center;
+				font-size: 1.8em;
+				font-family: "微软雅黑";
+				color: #3498DB;
+				margin-top: 40px;
+			}
+			form{
+				margin-top: 30px;
+				display: block;
+				width: 300px;
+				margin: 0 auto;
+				margin-top: 45px;
+			}
+			#text,#password{
+				display: block;
+				width: 260px;
+				height: 27px;
+				margin-bottom: 30px;
+				border: 1px solid lightgray;
+				padding-left:40px ;
+				font-size: 12px;
+			}
+			#text{
+				background: url(img/user.png) no-repeat 0 0;
+				color: #999999;
+			}
+			#password{
+				background: url(img/password.png) no-repeat 0 0;
+			}
+			#btn{
+				width: 300px;
+				height: 30px;
+				color: white;
+				background: #3498DB;
+				border: none;
+			}
+			p{
+				width: 300px;
+				margin: 0 auto;
+				margin-top: 10px;
+				
+			}
+			p a{
+				text-decoration: none;
+				margin-right: 170px;
+				color: blue;
+				opacity: .7;
+				font-size: 14px;
+				font-family: "微软雅黑";
+			}
+		</style>
+	</head>
+	<body>
+		<div class="box">
+			<h1>用户登录</h1>
+			<form >
+				<input type="text" name="text" id="text" value="手机号"/>
+				<input type="password" id="password" placeholder="登录密码"/>
+				<input type="button" id="btn" value="登陆" />
+			</form>
+			<p><a href="#">忘记密码？</a><a href="#">现在注册</a></p>
+		</div>
+	</body>
+</html>

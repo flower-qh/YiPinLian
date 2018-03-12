@@ -1,0 +1,122 @@
+.mod5_head{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+.mod5_head h1{
+	margin-bottom: 20px;
+	font-size: 1.6em;
+	color: #616161;
+	font-family: "微软雅黑";
+	font-weight: 100;
+}
+
+.introduction{
+	width: 100%;
+	height: auto;
+	padding: 20px 0;
+}
+.introduction_con{
+	width: 1200px;
+	height: 430px;
+	margin: 0 auto;
+	border-bottom: 1px solid #DCDCDC;
+}
+.introduction_con img{
+	float: left;
+}
+.introduction_con .introduction_F{
+	float: left;
+	font-size: 15px;
+	margin-left: 20px;
+	width: 800px;
+}
+.introduction_F h4{
+	font-size: 1.4em;
+	color: #333333;
+	margin-bottom: 30px;
+}
+.introduction_F p{
+	font-size: 14px;
+	font-family: "微软雅黑";
+	color: #616161;
+	line-height: 30px;
+}
+.zongzhi{
+	width: 100%;
+	height: 200px;
+
+}
+.zongzhi_con{
+	width: 1200px;
+	margin: 30px auto;
+	border-bottom: 1px dashed #DCDCDC;
+	overflow: hidden;
+	
+}
+.zongzhi_row{
+	width: 231px;
+	height: 150px;
+	float: left;
+	margin-left: 50px;
+}
+.zongzhi_row h1{
+	font-size: 1.5em;
+	color: #333333;
+	margin-bottom: 25px;
+}
+.zongzhi_row h1 span{
+	color: red;
+}
+.zongzhi_row p{
+	font-size: 12px;
+	color: #616161;
+	line-height: 20px;
+}
+
+.map img{
+	width: 1200px;
+	height: 400px;
+	margin: 0 auto;
+	display: block;
+}
+.contact{
+	width: 100%;
+	height: 200px;
+}
+.contact_con{
+	width: 1200px;
+	height: 200px;
+	margin: 0 auto;
+}
+.contact h1{
+	font-size: 1.5em;
+	color: #333333;
+	margin-top: 40px;
+}
+.contactP{
+	margin-top: 15px;
+}
+.contactP p{
+	line-height: 30px;
+	font-size: 12px;
+	color: #999999;
+	clear: both;
+}
+.contactP span{
+	width: 230px;
+	display: block;
+	float: left;
+	margin-left: 80px;
+	font-family: "微软雅黑";
+}
+.contactP span:nth-child(1),.contactP span:nth-child(3){
+	margin-left: 0;
+}
+
+
+
+
+

@@ -1,0 +1,855 @@
+
+
+/****************************980*1200*****************************/
+@media only screen and (min-width: 980px) and (max-width: 1200px) {
+	
+/*******************首页banner***********/
+.head{
+	height: 150px;
+}
+.head_box {
+		position: relative;
+		width: 980px;
+		height: 50px;
+		margin: 10px auto;
+		border-bottom: 1px solid #808080;
+		padding-bottom: 18px;
+	}
+.logo {
+		margin-right: 50px;
+		margin-top: 15px;
+		margin-left: 150px;
+}
+.list{
+	margin-left: 50px;
+}
+.head ul li a {
+		font-family: "微软雅黑";
+	}
+h1{
+	font-size: 1.2em;
+}
+.banner_img{
+	height: 500px;
+}
+.banner_img img{
+	width: 200%;
+	left: -50%;
+	max-height: 500px;
+}
+
+.btn{
+	top: 40%;
+}
+.rightbtn{
+	
+	right: 40px;
+}
+
+
+
+/*************************row*******************************/
+.row{
+	height: 600px;
+}
+.row_font{
+	width: 980px;
+	text-align: center;
+}
+.row_font h1{
+	font-size: 1.8em;
+}
+.row h4{
+	font-size: 1.5em;
+	margin-bottom: 20px;
+	
+}
+.row_font p{
+	font-size: 15px;
+	font-family: arial;
+	line-height: 30px;
+	color: #999999;
+	width: 90%;
+	margin: 0 auto;
+}
+.row_FI {
+	width: 980px;
+}
+
+.row_img{
+	width: 180px;
+	height: 180px;
+	margin-right: 15px;
+}
+.row_img img{
+	width: 180px;
+	height: 180px;
+}
+
+/*******************what*****************************/
+
+.what_con{
+	height: 678px;
+	width: 980px;
+	margin: 0 auto;
+}
+
+.what_end{
+	margin-top: 0px;
+}
+/**************why**************************/
+
+.row_con{
+	width: 980px;
+	height: 580px;
+	
+}
+
+.why_row_left,.why_row_middle,.why_row_right{
+	margin-left: 70px;
+}
+
+/********************************************************/
+/***********************服务理念*********************/
+.fuwulinian{
+	width: 100%;
+	height: 500px;
+}
+.fuwu_head{
+	width: 980px;
+}
+.fuwu_Img{
+	width: 980px;	
+}
+
+.fuwu_IF{
+	width: 160px;
+}
+
+/********************工厂入驻*********************/
+.gongchang{
+	height: 430px;
+}
+.go_img{
+	width: 680px;
+}
+.go_IF,.go_end{
+	margin: 0 auto;
+	float: left;
+	margin-bottom: 100px;
+}
+.If1,.if2,.If3{
+	float: left;
+}
+.arrow,.arrow1,.arrow-ver{
+	display: none;
+}
+
+/****************************微信操作流程********************/
+
+.weixin_con{
+	width: 930px;
+}
+.weixin_row{
+	width: 178px;
+}
+/***********************************************/
+/***************工厂入驻**********************/
+/*******入住条件**************/
+.now{
+	height: 960px;
+}
+.now_row{
+	width: 980px;
+	overflow: visible;
+}
+.now_row1{
+	width: 430px;
+	height: 350px;
+	border: 1px solid #CCCCCC;
+	float: left;
+	position: relative;
+	margin-right: 50px;
+	margin-top: 50px;
+}
+.now_row1:first-child{
+	margin-left: 16px;
+}
+.now_row1:nth-child(3){
+	margin-right: 50px;
+	margin-left: 16px;
+}
+
+.now_row1 .row1Img1{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+.row1Img2{
+	margin: 50px auto;
+	display: block;
+}
+.now_row1_F{
+	text-align: center;
+	line-height: 30px;
+	font-size: 14px;
+	color: #616161;
+	font-family: "微软雅黑";
+}
+
+/*****************************工厂入驻1*******************/
+.goRuzhu{
+	height: 516px;
+	background: #F7F7F7;
+}
+
+.goRuzhu_con{
+	width: 980px;
+}
+.goRuzhu_row{
+	width: 290px;
+	
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.goRuzhu_row img{
+	margin-left: 20px;
+}
+
+/**************************常见问题*************/
+.problum{
+	height: 672px;
+	position: relative;
+	top: -100px;
+}
+
+.problum_con{
+	height: 482px;
+	width: 980px;
+}
+.one{
+	height: 310px;
+}
+.one h4{
+	font-size: 1em;
+}
+.problum_row{
+	width: 160px;
+}
+.two{
+	height: 215px;
+	overflow: hidden;
+}
+.two .problum_row1{
+	width: 200px;
+	padding-right:15px;
+	padding-top: 10px;
+	box-sizing: content-box;
+}
+
+.two .problum_row1:nth-child(1){
+	width: 170px;
+}
+.two .problum_row1:nth-child(3){
+	
+	width: 230px;
+}
+.two .problum_row1:nth-child(4){
+	width: 245px;
+}
+.two .problum_row1 p{
+	font-size: 13px;
+}
+/***************************************************************/
+/********关于我们********/
+
+.mod5_head h1{
+	font-size: 1.4em;
+}
+
+.introduction{
+	width: 100%;
+	/*height: 430px;*/
+}
+.introduction_con{
+	width: 980px;
+}
+.introduction_con img{
+	width: 334px;
+	height: 334px;
+}
+.introduction_con .introduction_F{
+	width: 600px;
+}
+.introduction_F h4{
+	font-size: 1.3em;
+}
+.introduction_F p{
+	font-size: 13px;
+	margin-bottom: 15px;
+}
+
+/****************宗旨************/
+
+.zongzhi_con{
+	width: 980px;
+}
+.zongzhi_row{
+	margin-left: 10px;
+}
+.zongzhi_row:nth-child(1){
+	margin-left: 25px;
+}
+.zongzhi_row h1{
+	font-size: 1.3em;
+	margin-bottom: 15px;
+}
+
+.map img{
+	width: 980px;
+	height: 400px;
+}
+.contact{
+	width: 100%;
+	height: 200px;
+}
+.contact_con{
+	width: 980px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+/*********加入我们***********/
+.mod6_head{
+	width: 980px;
+}
+
+.mod6P{
+	width: 700px;
+	margin: 60px auto;
+}
+
+.position{
+	width: 100%;
+}
+.position_con{
+	width: 980px;
+}
+
+.ingener{
+	width: 980px;
+}
+.ingener:last-child{
+	height: 504px;
+	
+}
+.ingener_head{
+	width: 950px;
+}
+
+.shuoming{
+	margin-left: 30px;
+	float: left;
+	width: 400px;
+}
+.shuoming h4{
+	font-size: 1.2em;
+	margin: 15px;
+	color: #333333;
+}
+.shuoming p{
+	position: relative;
+	left: 40px;
+	width: 400px;
+}
+	
+}
+
+
+
+@media only screen and (max-width: 980px) {
+	
+/*****************首页*********************/
+.head{
+	height: 150px;
+}
+.head_box {
+		position: relative;
+		width: 780px;
+		height: 50px;
+		margin: 10px auto;
+		border-bottom: 1px solid #808080;
+		padding-bottom: 18px;
+	}
+.logo {
+		margin-right: 50px;
+		margin-top: 15px;
+		margin-left: 150px;
+}
+	
+.head ul li a {
+		font-family: "微软雅黑";
+	}
+.title_line{
+	margin: 15px auto;
+	margin-bottom: 40px;
+	display: block;
+}
+/*******************banner***********/
+
+.banner_img{
+	height: 350px;
+}
+.banner_img img{
+	width: 100%;
+	height: 350px;
+	left: 0%;
+}
+.btn{
+	top: 35%;
+}
+.rightbtn{
+	right: 40px;
+}
+
+/*************************row*******************************/
+.row{
+	position: relative;
+	width: 100%;
+	height: 870px;
+	padding: 50px 0;
+	background: white;
+	padding-bottom: 80px;
+	border-bottom: 1px solid #DCDCDC;
+}
+.row_font{
+	width: 780px;
+	height: 300px;
+	margin: 0 auto;
+}
+.row_font h1{
+	font-size: 1.3em;
+	position: relative;
+	top: -20px;
+}
+.row h4{
+	font-size: 1.2em;
+	margin-bottom: 15px;
+}
+.row_font p{
+	font-size: 13px;
+	width: 100%;
+}
+
+.row_FI {
+	width: 780px;
+}
+
+.row_img{
+	float: left;
+	margin-right: 20px;
+	margin-left: 17px;
+	margin-top: 37px;
+	width: 220px;
+	height: 220px;
+	position: relative;
+}
+.row_img img{
+	position: absolute;
+	width: 220px;
+	height: 220px;
+}
+.row_img .p1 p{
+	margin-top: 8px;
+}
+
+/*******************what*****************************/
+
+.what_title{
+	font-size: 1.0em;
+}
+.what_con{
+	height: 678px;
+	width: 780px;
+}
+
+.whatCon_Img{
+	margin-left: -15px;
+}
+
+/**************why**************************/
+.why{
+	height: 732px;
+}
+.row_con{
+	width: 780px;
+}
+.why_row_left,.why_row_middle,.why_row_right{
+	margin-left: 40px;
+}
+.why_head h1{
+	font-size: 15px;
+}
+/*****************************************************/
+
+.chuanTong_F p{
+	font-size: 1.2em;
+	
+}
+
+/*********************诚信服务****************************/
+
+
+/********************诚信服务头部***********************/
+
+/***********************服务理念*********************/
+.fuwulinian{
+	width: 100%;
+	height: 570px;
+}
+.fuwu_head{
+	width: 780px;
+}
+.fuwu_Img{
+	width: 780px;
+	
+}
+.fuwu_IF{
+	margin-top: 50px;
+	margin-right: 60px;
+}
+/********************工厂入驻*********************/
+.gongchang{
+	height: 530px;
+}
+.go_img{
+	width: 680px;
+}
+.go_IF,.go_end{
+	margin: 0 auto;
+	float: left;
+	margin-bottom: 100px;
+}
+.If1,.if2,.If3{
+	float: left;
+}
+.arrow,.arrow1,.arrow-ver{
+	display: none;
+}
+/****************************微信操作流程********************/
+
+.weixin_con{
+	width: 780px;
+}
+.weixin_row{
+	width: 148px;
+}
+.weixin_row img{
+	width: 130px;
+	height: 130px;
+}
+.weixin_row span{
+	left: 55px;
+	
+}
+.weixin_end{
+	bottom: -50px;
+	left: 40px;
+	
+}
+ 
+
+/***************工厂入驻**********************/
+/*******入住条件**************/
+.now{
+	height: 960px;
+}
+.now_row{
+	width: 780px;
+	overflow: visible;
+}
+.now_row1{
+	width : 330px;
+	height: 350px;
+	border: 1px solid #CCCCCC;
+	float: left;
+	position: relative;
+	margin-right: 50px;
+	margin-top: 50px;
+}
+.now_row1:first-child{
+	margin-left: 16px;
+}
+.now_row1:nth-child(3){
+	margin-right: 50px;
+	margin-left: 16px;
+}
+
+.now_row1 .row1Img1{
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+.row1Img2{
+	margin: 50px auto;
+	display: block;
+}
+.now_row1_F{
+	text-align: center;
+	line-height: 30px;
+	font-size: 14px;
+	color: #616161;
+	font-family: "微软雅黑";
+}
+/*****************************工厂入驻1*******************/
+.goRuzhu{
+	height: 716px;
+	background: #F7F7F7;
+}
+
+.goRuzhu_con{
+	width: 780px;
+	height: 600px;
+}
+.goRuzhu_row{
+	width: 330px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.goRuzhu_row:nth-child(1),.goRuzhu_row:nth-child(3),.goRuzhu_row:nth-child(5){
+	margin-left: 40px;
+}
+.goRuzhu_row img{
+	margin-left: 40px;
+}
+
+/**************************常见问题*************/
+.problum{
+	height: 1000px;
+}
+.problum h1{
+	font-size: 1.4em;
+}
+.problum_con{
+	height: 922px;
+	width: 780px;
+}
+.one{
+	height: auto;
+	margin-left: 30px;
+	overflow: hidden;
+	padding-bottom: 50px;
+}
+.one h4{
+	font-size: 1.1em;
+}
+.problum_row{
+	margin-top: 15px;
+}
+.problum_row:last-child{
+	margin-left: 240px;
+}
+.problum_row p{
+	font-size: 13px;
+}
+.two{
+	height: 415px;
+	width: 640px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.problum_row1{
+	width: auto;
+}
+.two .problum_row1:first-child{
+	padding-right: 18px;
+}
+.two .problum_row1:nth-child(2),.two .problum_row1:nth-child(4){
+	border: none;
+	padding-left: 30px;
+}
+.two .problum_row1 h4{
+	margin-bottom: 15px;
+	font-size: 0.9em;
+}
+.two .problum_row1 p{
+	font-size: 14px;
+	width: auto;
+	margin-top: 20px;
+	line-height: 30px;
+	font-family: "微软雅黑";
+}
+
+/***************************************************************/
+/********关于我们********/
+
+.mod5_head h1{
+	font-size: 1.2em;
+}
+
+.introduction{
+	width: 100%;
+}
+.introduction_con{
+	width: 780px;
+}
+.introduction_con img{
+	width: 234px;
+	height: 234px;
+	position: relative;
+	top: 65px;
+}
+.introduction_con .introduction_F{
+	width: 500px;
+}
+.introduction_F h4{
+	font-size: 1.3em;
+	border-bottom: 10px;
+	text-align: left;
+	position: relative;
+	left: -250px;
+}
+.introduction_F p{
+	font-size: 13px;
+	margin-bottom: 10px;
+}
+
+/****************宗旨************/
+.zongzhi{
+	height: 400px;
+}
+.zongzhi_con{
+	width: 780px;
+}
+.zongzhi_row{
+	margin-left: 100px;
+}
+.zongzhi_row:nth-child(1),.zongzhi_row:nth-child(3){
+	margin-left: 100px;
+}
+.zongzhi_row h1{
+	font-size: 1.3em;
+	margin-bottom: 15px;
+}
+.map{
+	margin-top: -50px;
+}
+.map img{
+	width: 780px;
+	height: 300px;
+}
+.contact{
+	width: 100%;
+	height: 200px;
+}
+.contact_con{
+	width: 780px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+/*********加入我们***********/
+.mod6_head{
+	width: 100%;
+}
+
+.mod6P{
+	width: 700px;
+	margin: 60px auto;
+}
+
+.position{
+	width: 100%;
+}
+.position_con{
+	width: 780px;
+}
+
+.ingener{
+	width: 780px;
+	height: 700px;
+}
+.ingener:last-child{
+	height: 750px;
+	
+}
+.ingener_head{
+	width: 780px;
+}
+
+.shuoming{
+	margin-left: 30px;
+	float: left;
+	width: 400px;
+	margin-top: 20px;
+}
+.shuoming h4{
+	font-size: 1.2em;
+	margin: 15px;
+	color: #333333;
+}
+.shuoming p{
+	position: relative;
+	left: 40px;
+	width: 400px;
+}
+	
+}
+
+@media only screen and (max-width: 780px) {
+/*   头部导航栏    */
+.head {
+	height: auto;
+}
+	
+.head_box {
+	position: relative;
+	width: 500px;
+	height: 70px;
+	margin: 10px auto;
+}
+	
+.headP {
+	float: left;
+	color: white;
+	line-height: 70px;		
+}
+.headP h1{
+	font-size: 17px;
+	font-family: "bodoni mt black";
+}
+.logo {
+	margin-right: 20px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 0;
+}
+	
+.list {
+	clear: both;
+	padding-top: 20px;
+	/*display: none;*/
+}
+	
+.head ul li {
+	/*clear: both;*/
+	margin-left: 10px;
+}
+.head ul li.action {
+	color: white;
+	border-bottom: none;
+}
+.sub{
+	padding-top: 10px;
+}
+.head ul li a {
+	padding: 5px 0px;
+	line-height: 40px;
+}
+
+
+}
+
+
+
+

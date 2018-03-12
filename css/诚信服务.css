@@ -1,0 +1,214 @@
+/********************诚信服务头部***********************/
+.mod2_head{
+	width: 100%;
+	height: 125px;
+	text-align: center;
+	padding-top: 80px;
+	color: #333333;
+}
+.hi h2{
+	font-size: 1.3em;
+	text-align: center;
+}
+.mod2_head p{
+	margin-bottom: 30px;
+}
+/***********************服务理念*********************/
+.fuwulinian{
+	width: 100%;
+	height: 500px;
+}
+.fuwu_head{
+	width: 1200px;
+	height: 25px;
+	margin: 30px auto;
+	text-align: center;
+	font-family: arial;
+	font-size: 1.2em;
+	border-top: 1px solid #CCCCCC;
+	padding-top: 50px;
+}
+.fuwu_Img{
+	width: 1200px;
+	height: 400px;
+	padding: 35px 0;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 16px;
+	overflow: hidden;
+}
+.fuwu_Img h4{
+	margin-top: 10px;
+	font-size: 1.3em;
+}
+.fuwu_IF{
+	float: left;
+	width: 200px;
+	margin-top: 100px;
+}
+.fuwu_IF img{
+	width: 71px;
+	height: 80px;
+}
+.fuwu_IF p{
+	margin-top: 8px;
+	font-size: 14px;
+}
+/********************工厂入驻*********************/
+.mod2 .gongchang{
+	width: 100%;
+	height: 640px;
+	background: #F7F7F7;
+}
+.go_head{
+	text-align: center;
+	padding-top: 80px;
+}
+.go_head h1{
+	font-family: arial;
+	font-size: 1.8em;
+	margin-bottom: 20px;
+}
+.go_head p{
+	font-size: 15px;
+	font-family: "微软雅黑";
+	color: #333333;
+	margin-bottom: 80px;
+}
+.go_img{
+	width: 1200px;
+	height: 500px;
+	margin: 0 auto;
+	
+}
+.go_IF{
+	width: 170px;
+	height: 100px;
+	float: left;
+	text-align: center;
+	margin-bottom: 150px;
+}
+.go_IF p{
+	margin-top: 7px;
+	font-size: 14px;
+	font-family: "微软雅黑";
+}
+.arrow{
+	float: left;
+	position: relative;
+	top: 40px;
+}
+.arrow-ver{
+	float: right;
+	position: relative;
+	top: -120px;
+	left: -80px;
+	margin-left: 50px;
+}
+.arrow_top{
+	transform: rotateX(180deg);	
+	
+}
+.arrow_left{
+	transform: rotateY(180deg);
+	
+}
+.arrow_leftTop{
+	transform: rotate(180deg);	
+	
+}
+
+.If1,.If2,.If3,.arrow1{
+	float: right;
+}
+/*.go_end{
+	position: relative;
+	
+}
+.If1,.If2,.If3,{
+	position: relative;
+	margin-top: 100px;
+}*/
+/****************************微信操作流程********************/
+.weixin{
+	width: 100%;
+	height: 1169px;
+	overflow: hidden;
+}
+.weixin h1{
+	margin-top: 50px;
+	font-size: 1.8em;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.weixin_con{
+	width: 1200px;
+	height: 1000px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.weixin_con img{
+	display: block;
+	margin: 0 auto;
+}
+.weixin_row1{
+	border-bottom: 1.5px solid #CCCCCC;
+	height: 240px;
+}
+.weixin_row{
+	float: left;
+	width: 230px;
+	height: 240px;
+	position: relative;
+}
+.weixin_row span{
+	width: 8px;
+	height: 8px;
+	border-radius: 8px;
+	display: block;
+	position: absolute;
+	bottom: -12px;
+	left: 100px;
+	color: orange;
+	font-weight: 600;
+	font-family: "微软雅黑";
+	z-index: 9;
+	line-height: 8px;
+	padding: 8px;
+	background: #F7F7F7;
+}
+.weixin_row2{
+	height: 350px;
+	border-right: 1.5px solid #CCCCCC;
+	border-bottom: 1.5px solid #CCCCCC;
+	
+}
+.weixin_row3{
+	border-left: 1.5px solid #CCCCCC;
+	height: 350px;
+}
+.weixin_row2 .weixin_row,.weixin_row3 .weixin_row{
+	height: 350px;
+}
+.weixin_row2 .weixin_F,.weixin_row3 .weixin_F{
+	text-align: center;
+	margin:50px auto;
+	font-size: 12px;
+	line-height: 25px;
+}
+
+.weixin_end{
+	position: absolute;
+	bottom: -50px;
+	left: 80px;
+	text-align: center;
+	
+}
+.wei_line{
+	border-bottom: 1.5px solid #CCCCCC;
+}
+
+
+
+
+

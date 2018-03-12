@@ -1,0 +1,98 @@
+.mod6_head{
+	width: 1200px;
+	height: 260px;
+	margin: 0 auto;
+	background: url(../img/bg-recruitment.png) no-repeat;
+	background-position: 100%;
+	overflow: hidden;
+	
+}
+
+.mod6P{
+	width: 995px;
+	height: 150px;
+	color: white;
+	font-family: "微软雅黑";
+	margin: 50px auto;
+	line-height: 30px;
+	position: relative;
+}
+.mod6P p.mod6P1{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.position{
+	width: 100%;
+}
+.position_con{
+	width: 1200px;
+	margin: 0 auto;
+}
+.position h1{
+	font-family: arial;
+	margin: 50px 0;
+	font-size: 1.7em;
+}
+.ingener{
+	height: 464px;
+	width: 1198px;
+	margin: 0 auto;
+	border: 1px dashed #999999;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.ingener_head{
+	width: 1018px;
+	height: 70px;
+	margin:  40px auto;
+	border-bottom: 1px solid #DCDCDC;
+}
+.ingener_head img{
+	display: block;
+	float: left;
+	margin-right: 20px;
+}
+.ingener_head p{
+	float: left;
+	font-size: 1.5em;
+}
+.shuoming{
+	width: 500px;
+	float: left;
+	margin-left: 30px;
+}
+.shuoming h4{
+	font-size: 1.2em;
+	margin: 15px;
+	color: #333333;
+}
+.shuoming p{
+	position: relative;
+	left: 90px;
+	color: #808080;
+	line-height: 30px;
+	width: 460px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
